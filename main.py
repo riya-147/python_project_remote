@@ -1,3 +1,3 @@
-echo 'print("Hello, Python!")' > main.py
+print("Hello, Python!") > main.py
 
-echo '# This is the main Python program' >> main.py
+#This is the main Python program >> main.py

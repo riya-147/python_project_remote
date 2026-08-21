@@ -1,1 +1,1 @@
-echo 'print("Utility functions")' > utils.py
+'print("Utility functions")' > utils.py
