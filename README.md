@@ -1,0 +1,1 @@
+"A simple project demonstrating Git branching and collaboration."
