@@ -1,1 +1,1 @@
-print("Student information") > student.py
+print("modyfing student file")
